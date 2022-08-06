@@ -52,7 +52,7 @@ class LinkedList:
         while (current):
             status_of_linked_list.append(current.data)
             current = current.next
-        print(status_of_linked_list)
+        # print(status_of_linked_list)
         
 
 class Solution:
